@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DavidaTorres1
 - 👀 I’m interested in OOP languages, and making pretty websites.
 - 🌱 I’m currently learning CSS.
-- 💞️ I’m looking to collaborate on SPT mods or other games.
+- 💞️ I’m looking to collaborate on SPT mods or other open source mods.
 - 📫 How to reach me email: davidatorres123@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact(s): I collect lighters, I sim race, and I learned HTML and Python when I was in middle school.
