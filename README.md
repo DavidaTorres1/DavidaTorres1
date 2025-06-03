@@ -1,6 +1,6 @@
 <h1 align="center">David A. Torres</h1>
 
-I'm a Dominican American 🇩🇴, born and raised in New York City. **Knicks in 7!** I'm a 2025 graduate from Baruch College with a BBA in Computer Information Systems and a minor in Math. I have a personal passion for technology, math, and self-teaching.  
+I'm a Dominican American 🇩🇴, born and raised in New York City. **Damn you Haliburton!** I'm a 2025 graduate from Baruch College with a BBA in Computer Information Systems and a minor in Math. I have a personal passion for technology, math, and self-teaching.  
 
 <h2>Repository Highlights:</h2>
 
